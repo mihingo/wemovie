@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/wemovie/static/css/main.88eff0fc.chunk.css",
-    "main.js": "/wemovie/static/js/main.f398228b.chunk.js",
-    "main.js.map": "/wemovie/static/js/main.f398228b.chunk.js.map",
-    "runtime-main.js": "/wemovie/static/js/runtime-main.9b4045d7.js",
-    "runtime-main.js.map": "/wemovie/static/js/runtime-main.9b4045d7.js.map",
-    "static/js/2.6899802d.chunk.js": "/wemovie/static/js/2.6899802d.chunk.js",
-    "static/js/2.6899802d.chunk.js.map": "/wemovie/static/js/2.6899802d.chunk.js.map",
-    "static/js/3.5902a68b.chunk.js": "/wemovie/static/js/3.5902a68b.chunk.js",
-    "static/js/3.5902a68b.chunk.js.map": "/wemovie/static/js/3.5902a68b.chunk.js.map",
+    "main.js": "/wemovie/static/js/main.d459f0fd.chunk.js",
+    "main.js.map": "/wemovie/static/js/main.d459f0fd.chunk.js.map",
+    "runtime-main.js": "/wemovie/static/js/runtime-main.13d5fbb6.js",
+    "runtime-main.js.map": "/wemovie/static/js/runtime-main.13d5fbb6.js.map",
+    "static/js/2.e599ac76.chunk.js": "/wemovie/static/js/2.e599ac76.chunk.js",
+    "static/js/2.e599ac76.chunk.js.map": "/wemovie/static/js/2.e599ac76.chunk.js.map",
+    "static/js/3.60e6e589.chunk.js": "/wemovie/static/js/3.60e6e589.chunk.js",
+    "static/js/3.60e6e589.chunk.js.map": "/wemovie/static/js/3.60e6e589.chunk.js.map",
     "index.html": "/wemovie/index.html",
     "static/css/main.88eff0fc.chunk.css.map": "/wemovie/static/css/main.88eff0fc.chunk.css.map",
-    "static/js/2.6899802d.chunk.js.LICENSE.txt": "/wemovie/static/js/2.6899802d.chunk.js.LICENSE.txt"
+    "static/js/2.e599ac76.chunk.js.LICENSE.txt": "/wemovie/static/js/2.e599ac76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b4045d7.js",
-    "static/js/2.6899802d.chunk.js",
+    "static/js/runtime-main.13d5fbb6.js",
+    "static/js/2.e599ac76.chunk.js",
     "static/css/main.88eff0fc.chunk.css",
-    "static/js/main.f398228b.chunk.js"
+    "static/js/main.d459f0fd.chunk.js"
   ]
 }
